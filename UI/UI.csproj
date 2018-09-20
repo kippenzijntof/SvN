@@ -15,8 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Contracts\Contracts.csproj" />
-    <ProjectReference Include="..\DefaultContractImplementation\DefaultContractImplementation.csproj" />
+    <ProjectReference Include="..\Static\Static.csproj" />
   </ItemGroup>
 
 </Project>

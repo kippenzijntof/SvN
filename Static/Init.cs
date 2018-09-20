@@ -9,7 +9,7 @@ namespace Static
     {
         public static void AddTransientBinding(this IServiceCollection serviceCollection)
         {
-            serviceCollection.AddTransient<IProductRepository, FakeProductRepository>();
+            serviceCollection.AddTransient<IProductRepository, ProductRepository>();
         }
     }
 }
