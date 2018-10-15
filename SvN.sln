@@ -16,6 +16,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concrete", "Concrete\Concrete.csproj", "{DC21B433-A145-4441-B559-40F289923D90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcreteSVN", "ConcreteSVN\ConcreteSVN.csproj", "{33164C29-0222-4037-8946-250A73079020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DISetupSVN", "DISetupSVN\DISetupSVN.csproj", "{38E33D57-36B9-4F8B-9BE8-0C5DFDB95B70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +46,14 @@ Global
 		{DC21B433-A145-4441-B559-40F289923D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC21B433-A145-4441-B559-40F289923D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC21B433-A145-4441-B559-40F289923D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33164C29-0222-4037-8946-250A73079020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33164C29-0222-4037-8946-250A73079020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33164C29-0222-4037-8946-250A73079020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33164C29-0222-4037-8946-250A73079020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E33D57-36B9-4F8B-9BE8-0C5DFDB95B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E33D57-36B9-4F8B-9BE8-0C5DFDB95B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E33D57-36B9-4F8B-9BE8-0C5DFDB95B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E33D57-36B9-4F8B-9BE8-0C5DFDB95B70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

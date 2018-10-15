@@ -1,6 +1,5 @@
-﻿using System;
+﻿using Concrete;
 using Interfaces;
-using Concrete;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace DISetup
