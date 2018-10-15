@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Contracts;
+using Interfaces;
 
-namespace DefaultContractImplementation
+namespace Concrete
 {
     public class ProductRepository : IProductRepository
     {

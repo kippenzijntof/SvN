@@ -1,9 +1,9 @@
 ﻿using System;
-using Contracts;
-using DefaultContractImplementation;
+using Interfaces;
+using Concrete;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Static
+namespace DISetup
 {
     //This class is used by the UI project and its logic depends on the UI project requirements
     public static class ServiceExtension
